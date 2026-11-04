@@ -1,23 +1,22 @@
 site_name: Asistencia Ejecutiva & Coordinación de Operaciones
 site_description: Portfolio profesional de Asistencia Presencial o Virtual, Coordinación Operativa y Automatizaciones.
 site_author: Florencia Espeche
+copyright: "© Florencia Espeche · Asistencia Ejecutiva & Coordinación de Operaciones · Gracias por visitar mi portfolio 🌿"
 
 theme:
   name: material
   language: es
-  # custom_dir: docs/overrides
   logo: assets/logo.svg
-  favicon: assets/logo.svg
-  font:
-    text: Source Sans 3
+  # custom_dir: docs/overrides
   features:
     - navigation.sections
     - navigation.top
     - toc.integrate
   palette:
+    # Tema claro con tonos oficina suaves
     - scheme: default
-      primary: teal
-      accent: teal
+      primary: blue grey
+      accent: light blue
 
 # Sin plugins: MkDocs no carga el buscador y desaparece la caja de búsqueda.
 plugins: []

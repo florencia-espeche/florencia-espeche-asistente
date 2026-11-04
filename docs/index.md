@@ -2,9 +2,8 @@
   <img src="assets/foto-perfil.jpg" alt="Foto de Florencia Espeche" class="profile-avatar" />
   <div class="profile-info">
     <h1>Florencia Espeche</h1>
-    <p><strong>Operations Specialist & Executive Assistant</strong></p>
     <p>Optimización de procesos, gestión de agendas complejas, orquestación de flujos de trabajo e integración de herramientas de Inteligencia Artificial para equipos globales.</p>
-    <p> Remoto (Soporte Bilingüe Español / Inglés)</p>
+    <p> Remoto (Soporte Español / Inglés)</p>
     <p>📍 Presencial | Córdoba, Argentina </p>
   </div>
 </div>
