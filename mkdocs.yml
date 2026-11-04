@@ -1,0 +1,30 @@
+site_name: Asistencia Ejecutiva & Coordinación de Operaciones
+site_description: Portfolio profesional de Asistencia Presencial o Virtual, Coordinación Operativa y Automatizaciones.
+site_author: Florencia Espeche
+
+theme:
+  name: material
+  language: es
+  custom_dir: docs/overrides
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  palette:
+    # Tema claro con tonos oficina suaves
+    - scheme: default
+      primary: blue grey
+      accent: light blue
+
+extra_css:
+  - assets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

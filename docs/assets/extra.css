@@ -1,0 +1,68 @@
+:root {
+    --md-primary-fg-color:        #4A5568; /* Slate / Pizarra corporativo */
+    --md-primary-bg-color:        #F8FAFC; /* Blanco hueso / Lino */
+    --md-accent-fg-color:         #64748B;
+    --md-default-bg-color:        #FAF9F6; /* Fondo suave tipo papelería */
+  }
+  
+  /* Cabecera del perfil */
+  .profile-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    padding: 1.5rem;
+    background-color: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.04);
+    margin-bottom: 2rem;
+  }
+  
+  .profile-avatar {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #E2E8F0;
+    flex-shrink: 0;
+  }
+  
+  .profile-info h1 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.75rem;
+    color: #2D3748;
+  }
+  
+  .profile-info p {
+    margin: 0.25rem 0;
+    color: #4A5568;
+  }
+  
+  /* Grillas de herramientas y skills */
+  .grid-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .card {
+    background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    padding: 1.25rem;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: #CBD5E1;
+  }
+  
+  @media (max-width: 600px) {
+    .profile-header {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
