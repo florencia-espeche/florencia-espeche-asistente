@@ -16,6 +16,9 @@ theme:
       primary: blue grey
       accent: light blue
 
+# Sin plugins: MkDocs no carga el buscador y desaparece la caja de búsqueda.
+plugins: []
+
 extra_css:
   - assets/extra.css
 
