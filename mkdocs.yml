@@ -6,15 +6,18 @@ theme:
   name: material
   language: es
   # custom_dir: docs/overrides
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  font:
+    text: Source Sans 3
   features:
     - navigation.sections
     - navigation.top
     - toc.integrate
   palette:
-    # Tema claro con tonos oficina suaves
     - scheme: default
-      primary: blue grey
-      accent: light blue
+      primary: teal
+      accent: teal
 
 # Sin plugins: MkDocs no carga el buscador y desaparece la caja de búsqueda.
 plugins: []
