@@ -2,7 +2,7 @@
   <img src="assets/foto-perfil.jpg" alt="Foto de Florencia Espeche" class="profile-avatar" />
   <div class="profile-info">
     <h1>Florencia Espeche</h1>
-    <p>Optimización de procesos, gestión de agendas complejas, orquestación de flujos de trabajo e integración de herramientas de Inteligencia Artificial para equipos globales.</p>
+    <p>Optimización de procesos, gestión de agendas complejas, contención de trayectorias académicas e integración de herramientas de IA para equipos globales y entornos educativos.</p>
     <p> Remoto (Soporte Español / Inglés)</p>
     <p>📍 Presencial | Córdoba, Argentina </p>
   </div>
@@ -10,7 +10,7 @@
 
 ## Perfil Profesional
 
-Especialista en asistencia operativa con trayectoria coordinando flujos de trabajo dinámicos para startups internacionales y entornos educativos de alta demanda en EE.UU. Enfoque analítico y metodológico orientado a garantizar puntualidad, precisión de datos y automatización de tareas repetitivas mediante herramientas de inteligencia artificial.
+Especialista en coordinación operativa y soporte pedagógico gestionando flujos de trabajo dinámicos para startups internacionales y entornos educativos de alta demanda en EE.UU. Combino un enfoque analítico y metodológico orientado a garantizar seguimiento, precisión de datos y automatización de tareas repetitivas con una fuerte vocación por el acompañamiento estudiantil, priorizando al alumno, su adaptación al cambio y el bienestar emocional como base indispensable para la mejora del rendimiento académico.
 
 ---
 
@@ -21,7 +21,7 @@ Especialista en asistencia operativa con trayectoria coordinando flujos de traba
 
 Coordinación y gestión integral del programa de acompañamiento pedagógico para la transición bilingüe (Español a Inglés) de estudiantes de nivel primario en instituciones educativas de Estados Unidos.
 
-* **Gestión de Agendas & Calendarios:** Orquestación y sincronización de sesiones entre alumnos, coordinadores escolares y tutores empleando Google Calendar y Calendly.
+* **Gestión de Agendas & Calendarios:** Orquestación y sincronización de sesiones sincrónicas entre alumnos, tutores y directivos escolares mediante Google Calendar y Calendly, optimizando la asignación de horarios para maximizar la asistencia, reducir huecos operativos y equilibrar la carga de trabajo de los profesionales.
 * **Automatización de Comunicaciones:** Diseño y despliegue de secuencias automatizadas de correos para agendar, confirmar y reprogramar reuniones sin fricción operativa.
 * **Control de Asistencia & Calidad Académica:** Auditoría regular de sesiones en vivo para certificar estándares de servicio y registro granular en hojas de cálculo (Excel / Google Sheets) del presentismo, notas y evolución académica por grado y colegio.
 * **Análisis de Necesidades:** Monitoreo y diagnóstico de materias críticas por alumno para asignar refuerzos específicos y coordinar reuniones de seguimiento con coordinadores institucionales.
