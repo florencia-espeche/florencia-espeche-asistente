@@ -2,8 +2,8 @@
   <img src="assets/foto-perfil.jpg" alt="Foto de Florencia Espeche" class="profile-avatar" />
   <div class="profile-info">
     <h1>Florencia Espeche</h1>
-    <p>Optimización de procesos, gestión de agendas complejas, contención de trayectorias académicas e integración de herramientas de IA para equipos globales y entornos educativos.</p>
-    <p> Remoto (Soporte Español / Inglés)</p>
+    <p>Optimización de tiempos de atención, gestión de turnos y agendas, seguimiento de casos y resolución ágil de procesos administrativos.</p>
+    <p>Remoto (Soporte Español / Inglés)</p>
     <p>📍 Presencial | Córdoba, Argentina </p>
   </div>
 </div>
