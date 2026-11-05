@@ -4,7 +4,8 @@
     <h1>Florencia Espeche</h1>
     <p>Optimización de tiempos de atención, gestión de turnos y agendas, seguimiento de casos y resolución ágil de procesos administrativos.</p>
     <p>Remoto (Soporte Español / Inglés)</p>
-    <p>📍 Presencial | Córdoba, Argentina </p>
+    <p>Presencial | Córdoba, Argentina</p>
+    <p>🌿</p>
   </div>
 </div>
 
