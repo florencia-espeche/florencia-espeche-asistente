@@ -72,6 +72,23 @@ body,
   color: #547874;
 }
 
+.language-toggle {
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #6e9792;
+  border-radius: 999px;
+  background: #fafbfc;
+  color: #547874;
+  font: 600 0.7rem "Source Sans 3", "Segoe UI", sans-serif;
+  cursor: pointer;
+}
+
+.language-toggle:hover,
+.language-toggle:focus-visible {
+  background: #dfe9e7;
+}
+
 .md-typeset a {
   color: #547874;
 }
@@ -196,6 +213,10 @@ body,
     overflow: visible;
     text-overflow: clip;
     line-height: 1.2;
+  }
+
+  .language-toggle {
+    margin-left: 0.4rem;
   }
 
   .profile-header {

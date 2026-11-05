@@ -24,6 +24,9 @@ plugins: []
 extra_css:
   - assets/extra.css
 
+extra_javascript:
+  - assets/language-toggle.js
+
 markdown_extensions:
   - admonition
   - pymdownx.details
