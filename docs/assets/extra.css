@@ -122,6 +122,11 @@ body,
   color: #3d4c4a;
 }
 
+.md-typeset ul {
+  list-style: none;
+  padding-left: 0;
+}
+
 .grid-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
