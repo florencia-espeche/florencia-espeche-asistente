@@ -20,7 +20,7 @@ Especialista en coordinación operativa y soporte pedagógico gestionando flujos
 ### Coordinadora de Operaciones & Asistente 
 **EdTech Startup Papaya (EE.UU.)** | *Remoto*
 
-Coordinación y gestión integral del programa de acompañamiento pedagógico para la transición bilingüe (Español a Inglés) de estudiantes de nivel primario en instituciones educativas de Estados Unidos.
+Coordinación y gestión de programas de apoyo y seguimiento, administrando agendas sincrónicas, brindando contención a alumnos y familias, y manteniendo una comunicación fluida con tutores, maestros y coordinadores escolares.
 
 * **Gestión de Agendas & Calendarios:** Orquestación y sincronización de sesiones sincrónicas entre alumnos, tutores y directivos escolares mediante Google Calendar y Calendly, optimizando la asignación de horarios para maximizar la asistencia, reducir huecos operativos y equilibrar la carga de trabajo de los profesionales.
 * **Automatización de Comunicaciones:** Diseño y despliegue de secuencias automatizadas de correos para agendar, confirmar y reprogramar reuniones sin fricción operativa.
