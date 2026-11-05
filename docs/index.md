@@ -11,7 +11,7 @@
 
 ## Perfil Profesional
 
-Especialista en coordinación operativa y soporte pedagógico gestionando flujos de trabajo dinámicos para startups internacionales y entornos educativos de alta demanda en EE.UU. Combino un enfoque analítico y metodológico orientado a garantizar seguimiento, precisión de datos y automatización de tareas repetitivas con una fuerte vocación por el acompañamiento estudiantil, priorizando al alumno, su adaptación al cambio y el bienestar emocional como base indispensable para la mejora del rendimiento académico.
+Especialista en coordinación operativa y soporte pedagógico gestionando flujos de trabajo dinámicos para startups internacionales y entornos educativos de alta demanda en EE.UU. Combino un enfoque analítico y metodológico orientado a garantizar seguimiento, precisión de datos con una fuerte vocación por el acompañamiento estudiantil, priorizando al alumno, su adaptación al cambio y el bienestar emocional como base indispensable para la mejora del rendimiento académico.
 
 ---
 
