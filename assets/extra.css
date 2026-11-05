@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap");
+
+:root {
+  --md-primary-fg-color: #6e9792;
+  --md-primary-fg-color--light: #8aafa9;
+  --md-primary-fg-color--dark: #547874;
+  --md-primary-bg-color: #f2f4f5;
+  --md-accent-fg-color: #6e9792;
+  --md-default-bg-color: #f2f4f5;
+  --md-default-fg-color: #3d4c4a;
+  --md-default-fg-color--light: #5c6e6b;
+  --md-default-fg-color--lighter: #8a9693;
+  --md-typeset-color: #3d4c4a;
+  --md-typeset-a-color: #547874;
+  --md-footer-bg-color: #6e9792;
+  --md-footer-fg-color: #f2f4f5;
+  --md-footer-fg-color--light: #f2f4f5;
+  --md-footer-fg-color--lighter: #e7f0ee;
+  --md-text-font: "Source Sans 3", "Segoe UI", sans-serif;
+  --md-code-font: "Source Sans 3", sans-serif;
+}
+
+body,
+.md-typeset,
+.md-nav {
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+body,
+.md-main {
+  background-color: #f2f4f5;
+}
+
+.md-header__button[for="__drawer"],
+.md-sidebar--primary {
+  display: none;
+}
+
+.md-header {
+  position: sticky;
+  top: 0;
+  z-index: 4;
+  background-color: #f2f4f5;
+  color: #547874;
+  box-shadow: none;
+  border-bottom: 1px solid #dfe3e6;
+}
+
+.md-header__title,
+.md-header__topic,
+.md-ellipsis {
+  font-family: "Libre Baskerville", Georgia, serif;
+}
+
+.md-header__topic[data-md-component="header-topic"] {
+  display: none;
+}
+
+.md-header__button.md-logo {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: 2rem;
+}
+
+.md-header__button.md-icon,
+.md-header__button.md-logo {
+  color: #547874;
+}
+
+.language-toggle {
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #6e9792;
+  border-radius: 999px;
+  background: #fafbfc;
+  color: #547874;
+  font: 600 0.7rem "Source Sans 3", "Segoe UI", sans-serif;
+  cursor: pointer;
+}
+
+.language-toggle:hover,
+.language-toggle:focus-visible {
+  background: #dfe9e7;
+}
+
+.md-typeset a {
+  color: #547874;
+}
+
+.md-typeset a:hover {
+  color: #6e9792;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.profile-info h1 {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-weight: 400;
+  color: #547874;
+  letter-spacing: 0;
+}
+
+.profile-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+  padding: 1.5rem;
+  background-color: #fafbfc;
+  border: 1px solid #dfe3e6;
+  border-radius: 16px;
+  box-shadow: none;
+  margin-bottom: 2rem;
+}
+
+.profile-avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #d5e4e1;
+  flex-shrink: 0;
+}
+
+.profile-info h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.85rem;
+}
+
+.profile-info p {
+  margin: 0.25rem 0;
+  color: #3d4c4a;
+}
+
+.md-typeset ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.card {
+  background: #fafbfc;
+  border: 1px solid #dfe3e6;
+  border-radius: 16px;
+  padding: 1.25rem;
+  transition: border-color 0.2s ease;
+}
+
+.card:hover {
+  border-color: #6e9792;
+}
+
+.card strong {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-weight: 400;
+  color: #547874;
+}
+
+.md-footer {
+  background-color: #6e9792;
+  color: #f2f4f5;
+}
+
+.md-footer-meta__inner {
+  justify-content: center;
+}
+
+.md-copyright {
+  width: 100%;
+  color: #f2f4f5;
+  font-size: 0;
+  text-align: center;
+}
+
+.md-copyright__highlight {
+  font-size: 0.64rem;
+}
+
+.md-copyright a {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .md-header {
+    position: static;
+  }
+
+  .md-header__title,
+  .md-header__ellipsis {
+    height: auto;
+  }
+
+  .md-header__topic:not([data-md-component="header-topic"]) {
+    position: relative;
+    white-space: normal;
+  }
+
+  .md-header__topic:not([data-md-component="header-topic"]) .md-ellipsis {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+    line-height: 1.2;
+  }
+
+  .language-toggle {
+    margin-left: 0.4rem;
+  }
+
+  .profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
